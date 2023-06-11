@@ -1,5 +1,4 @@
-name: RottenFleshToLeather
-author: DemurestPie
-version: 1.0
-main: org.demurestpie.rottenfleshtoleather.RottenFleshToLeather
+name: RottenFlesh2Leather
+version: '${project.version}'
+main: org.demurestpie.rottenflesh2leather.RottenFlesh2Leather
 api-version: 1.19

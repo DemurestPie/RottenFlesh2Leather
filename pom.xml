@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.demurestpie</groupId>
-    <artifactId>RottenFleshToLeather</artifactId>
+    <artifactId>RottenFlesh2Leather</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
 
-    <name>RottenFleshToLeather</name>
+    <name>RottenFlesh2Leather</name>
 
     <properties>
         <java.version>1.8</java.version>
