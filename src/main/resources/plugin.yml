@@ -1,0 +1,5 @@
+name: RottenFleshToLeather
+author: DemurestPie
+version: 1.0
+main: org.demurestpie.rottenfleshtoleather.RottenFleshToLeather
+api-version: 1.19
