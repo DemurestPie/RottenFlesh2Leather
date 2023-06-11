@@ -1,4 +1,4 @@
 name: RottenFlesh2Leather
-version: '${project.version}'
+version: 1.0
 main: org.demurestpie.rottenflesh2leather.RottenFlesh2Leather
 api-version: 1.19
