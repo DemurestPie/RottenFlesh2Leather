@@ -1,0 +1,8 @@
+# Enable or disable certain cooking methods (Default = true)
+recipes:
+  allowFurnace: true
+  allowSmoker: true
+  allowCampfire: true
+
+# Set custom xp level (Default = 1.0)
+xp-level: 1.0
